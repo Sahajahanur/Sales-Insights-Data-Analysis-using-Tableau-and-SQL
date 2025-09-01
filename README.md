@@ -44,6 +44,7 @@ An automated dashboard providing quick & latest sales insights to support data-d
 ### Setup Process
 
 **Step 1:** Download file : [db_dump.sql](https://github.com/Sahajahanur/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/database/db_dump.sql) or  [db_dump.xlsx](https://github.com/Sahajahanur/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/database/db_dump.xlsx)
+
 Step 2: Import it in MySql do ETL(Extract, Transform, Load) if required
 
 Step 3: Download [Tableau Public (Free)](https://www.tableau.com/products/public/download) or [Tableau Desktop (14 days trial)](https://www.tableau.com/products/desktop/download) to perform Data Analysis.
